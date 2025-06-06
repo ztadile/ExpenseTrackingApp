@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExpenseTrackingApp</string>
+    <string name="title_activity_add_edit_expense_activity.kt">AddEditExpenseActivity.kt</string>
+    <string name="title_activity_add_edit_expense">AddEditExpenseActivity</string>
+</resources>
